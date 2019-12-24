@@ -20,7 +20,7 @@ Now I'm not sure what it is? How to distinguish between two behaviour if both ar
 
 Till then enjoy the meme:
 
-![meme](https://raw.githubusercontent.com/prateek754/prateek754.github.io/master/assets/images/butterflyma.JPG)
+![meme](https://raw.githubusercontent.com/prateek754/prateek754.github.io/master/assets/images/butterflyma.jpg)
 
 [Contest behavior in territorial male butterflies: does size matter?]: https://academic.oup.com/beheco/article/11/6/591/221405
 [Butterfly Spiral Dance]: https://extension.purdue.edu/article/6213
