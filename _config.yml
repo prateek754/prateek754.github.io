@@ -22,7 +22,7 @@ title: Prateek Kumar Sahu
 email: prateek@prateeksahu.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website. All the posts and views expressed are mine only. This site is made with jekyll. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/prateek754.github.io" # the subpath of your site, e.g. /blog
 url: "https://prateeksahu.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prateek754
 instagram_username: _prateeksahu_
