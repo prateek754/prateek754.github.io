@@ -45,4 +45,4 @@ Pros & Cons: You get recording from all parts of brain. But, these are not rando
 
 This pic that sums it up.
 
-![insectaww](/assets/images/inscon.JPEG)
+![insectaww](/assets/images/inscon.jpeg)
