@@ -7,7 +7,7 @@ permalink: /timeline/:title
 ---
 Made some progress in making track ball system for Drosophila. The mouse sensor with micro-controller is able to get me the x and y coordinates of the object through PLX Daq. I will make a more detailed post about it later sometime.
 
-![trackmouse](/assets/images/mousetrack.JPG)
+![trackmouse](https://raw.githubusercontent.com/prateek754/prateek754.github.io/master/assets/images/mousetrack.JPG)
 
 
 
