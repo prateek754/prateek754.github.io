@@ -11,4 +11,4 @@ Here's a glimps of the event.
 
 [![mothday](http://img.youtube.com/vi/C-5CxraG1v4/0.jpg)](http://www.youtube.com/watch?v=C-5CxraG1v4)
 
-![mothartschool](https://raw.githubusercontent.com/prateek754/prateek754.github.io/master/assets/images/artschool.JPG)
+![mothartschool](/assets/images/artschool.jpg)
