@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Moth day NCBS"
+date:   2018-10-05
+categories: timeline biology
+permalink: /timeline/:title
+---
+&emsp;&emsp;Moth day was organized by Prof. Sanjay Sane's lab. Students came to visit the exibits created by the students and faculties of NCBS. The exibits include the life cycle of moths, their behaviour, insect muscle, flight behaviour etc. with a wide array of exciting demonstration.
+
+Here's a glimps of the event.
+
+[![mothday](http://img.youtube.com/vi/C-5CxraG1v4/0.jpg)](http://www.youtube.com/watch?v=C-5CxraG1v4)
+
+![mothartschool](/assets/images/artschool.JPG)
