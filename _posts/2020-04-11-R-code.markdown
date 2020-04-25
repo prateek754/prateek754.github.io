@@ -7,10 +7,10 @@ permalink: /timeline/:title
 ---
 This below code generates 5 random items from list without replacement.
 ```R
-boxno <- c("C1","C2","C3","C4","C6","C7","C8","C9","C10","D1","D4","D5","D7","D9","D10")
-set.seed(1904)
-sample <- split(sample(boxno), rep(1:(length(boxno)/5), each=5))
-sample 
+boxno <- c("C1","C2","C3","C4","C6","C7","C8","C9","C10","D1","D4","D5","D7","D9","D10") # the list you would like to choose from
+set.seed(1904)   # any seed number so that you will get same results everytime you run it 
+sample <- split(sample(boxno), rep(1:(length(boxno)/5), each=5)) # the first part of code randomizes the list, the "split" function splits the randomized list into three separate list containing 5 items 
+sample # prints the output
 ```
 <br>
 
@@ -20,11 +20,12 @@ Note: You can output any of the property of audio file e.g. duartion, amplitude 
 ```R
 library(soundgen)
 library(tuneR)          #install both packages if you have not already
-audio<-readWave("C:/Users/Prateek Sahu/Desktop/Vocalisation/malesGraGra0201_110701-DC-36f.wav", header=TRUE) # length of audio file for a single file
-audio$samples / audio$sample.rate
+audio<-readWave("C:/Users/Prateek Sahu/Desktop/Vocalisation/males/GraGra0201_110701-DC-36f.wav", header=TRUE) # reading the wave file and storing in "audio"
+audio$samples / audio$sample.rate  # length of audio file for a single file
 
+## The below code is for a folder containing multiple audio files
 fnam=file.path("C:/Users/Prateek Sahu/Desktop/Vocalisation/males") #file path of the folder
-filist=list.files(fnam, recursive=TRUE, pattern="wav")
+filist=list.files(fnam, recursive=TRUE, pattern="wav") # file list 
 filist1=paste(fnam, "/", filist, sep="")
 nfiles=length(filist1)
 test_length=c("Full File Path", "length") #some formating for pasting below time duration 
@@ -35,7 +36,7 @@ for (i in 1:nfiles){
   test_length <- rbind(test_length, c(inname, L))
 }
 # the for loop goes through all files of the folder and calculate the length of the audio 
-library(xlsx)
+library(openxlsx)  # try not to use the library "xlsx" as it has java dependency 
 write.xlsx(test_length, "C:/Users/Prateek Sahu/Desktop/Vocalisation/males/length.xlsx")
-# this writes the all duration of audio files in the xlsx file format
+# this writes the all duration of audio files in the xlsx file format (or csv; whatever you like)
 ```
