@@ -21,7 +21,7 @@
 title: Prateek Kumar Sahu
 email: prateek@prateeksahu.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is made with jekyll. 
+  Based on jekyll minima theme.  
 baseurl: "/prateek754.github.io" # the subpath of your site, e.g. /blog
 url: "https://prateeksahu.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prateek754
