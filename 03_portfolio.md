@@ -19,7 +19,7 @@ permalink: /portfolio/
 
 Here's my CV: [CV](../CV_Prateek_Kumar_Sahu.pdf)
 
-<br> [Google Schoolar Profile](https://scholar.google.com/citations?user=PaXuXvQAAAAJ&hl=en)
+<br> [Google Scholar Profile](https://scholar.google.com/citations?user=PaXuXvQAAAAJ&hl=en)
 
 ## Projects
 
