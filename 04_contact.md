@@ -11,4 +11,4 @@ University of Alberta <br>
 Edmonton, Canada**
 
 **Email id: <br>
-[mail@psahu.in](mailto:mail@psahu.in) <br>**
+[prateek6289@gmail.com](mailto:prateek6289@gmail.com) <br>**

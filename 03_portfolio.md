@@ -41,7 +41,7 @@ a different nest for their survival.
 
 &emsp;&emsp; Anabas testudineus, the climbing perch, is a species of fish in the family Anabantidae. It is native to Asia. They possess a labyrinth organ, a structure in the head which allows it to breathe atmospheric oxygen. Fish of this family are commonly seen gulping at air at the surface of the water. In their wild habitat these fishes are often found near the surface of water.
 
-   We had worked on personality traits of the shoals of climbing perch. We asked whether there is consistancy among different methods of testing of personality traits. Further we tried to see how the personlity traits affect the decision making in this species.
+   We had worked on personality traits of the shoals of climbing perch. We asked whether there is consistancy among different methods for testing of personality traits. Further, we looked at how the personlity traits affect the decision making in this species.
 
 
 # Workshops & Symposiums
