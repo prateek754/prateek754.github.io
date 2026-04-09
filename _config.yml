@@ -22,10 +22,10 @@ title: Prateek Sahu
 email: prateek6289@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Prateek Sahu.  
-baseurl: "/prateek754.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/homewebsite" # the subpath of your site, e.g. /blog
 url: "https://prateeksahu.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prateek754
-instagram_username: _prateeksahu_
+instagram_username: prateekksahu
 
 
 # Build settings
